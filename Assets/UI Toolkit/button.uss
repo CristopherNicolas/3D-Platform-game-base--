@@ -1,0 +1,9 @@
+.btn {
+    background-color: rgba(255, 255, 255, 0.67);
+    font-size: 77px;
+    -unity-font: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=972e5609cf0b6854ca1bfbf96bd7ff2e&type=3#NotInter-Regular');
+    color: rgb(248, 193, 0);
+    -unity-font-style: bold;
+    -unity-text-align: upper-left;
+    white-space: normal;
+}

@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="superior" style="flex-grow: 1;">
+        <ui:ProgressBar value="22" title="Progreso de mapa" name="progresoMapa" style="opacity: 0.43; font-size: 29px;" />
+        <ui:ProgressBar value="7" title="cooldown habilidad" name="cd" high-value="7" style="opacity: 0.34; align-items: stretch; flex-direction: column; width: 398px; font-size: 25px; background-color: rgb(255, 0, 0);" />
+        <ui:VisualElement style="flex-grow: 1;" />
+    </ui:VisualElement>
+    <ui:VisualElement name="inferior" style="flex-grow: 1;" />
+</ui:UXML>
